@@ -12,8 +12,11 @@ Dynamic weather icon change according to weather status.
 It provide basic information like feels like temperature,humidity,pressure,wind speed.
 It will not accept empty input.
 it will give you alert if city name not matched with api data.
-a good ux/ui
+a good ux/ui.
+
 Snapshot
+
+
 Default
 ![demo1](https://github.com/user-attachments/assets/0115ef64-6f84-4165-885c-bc13ebe23888)
 
